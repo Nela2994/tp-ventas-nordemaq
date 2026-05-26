@@ -1,0 +1,22 @@
+ANÁLISIS DE VENTAS NORDEMAQ
+
+Cantidad total de equipos vendidos: 10
+
+Modelos más vendidos:
+Modelo
+L318     4
+B95C     2
+V110D    1
+E215     1
+L320     1
+RG170    1
+Name: count, dtype: int64
+
+Ventas por actividad:
+Actividad
+41 – Contratista Pequeño Porte (hasta 10 máq.)     5
+12 - Agropecuario (contratista agrícola)           2
+61 - Alcaldías / Intendencias / Municipalidades    1
+51 - Alquiler                                      1
+29 - Otros Industria                               1
+Name: count, dtype: int64
